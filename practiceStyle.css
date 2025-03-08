@@ -1,4 +1,33 @@
 h1 {
-    height: 150px;
     background-color: teal;
+}
+
+h6 {
+    color: crimson;
+    border: solid black 3px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.first {
+    font-style: italic;
+}
+
+.done {
+    color: green;
+}
+
+.notDone {
+    color: red;
+}
+
+#text {
+    color: lightblue;
+}
+
+.SnapCat {
+    font-family: Helvetica;
+    color: coral;
+    background-color: cornsilk;
+    padding: 15px;
 }
